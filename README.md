@@ -9,8 +9,7 @@ Have a look and give it a star if you like it:)
 
 <head>
   <meta charset="utf-8">
-  <title>Drum Kit</title>
-  </head>
+ </head>
 
 <body>
   <h1 id="title">Drum 🥁 Kit</h1>
